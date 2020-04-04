@@ -16,8 +16,8 @@ _by พี่เกรท ออนดีมานด์_
 แนะนำให้ลง [Anaconda](https://www.continuum.io/downloads) ซึ่งเป็น Python Package ที่มี libraries ที่ต้องใช้ครบในตัวเอง
 
 ## Files
-- `tcas3_eng_cu_analysis_2563_draft_06.ipynb` : Notebook ที่ใช้วิเคราะห์ข้อมูล
-- `engcuraw63_04.csv` : สถิติคะแนน GAT/PAT ปี 2555-2563 และคะแนนต่ำสุดที่สอบติดวิศวะจุฬารอบรับตรงในปี 2555-2562
+- `tcas3_eng_cu_analysis_2563_draft_07.ipynb` : Notebook ที่ใช้วิเคราะห์ข้อมูล
+- `engcuraw63_05.csv` : สถิติคะแนน GAT/PAT ปี 2555-2563 และคะแนนต่ำสุดที่สอบติดวิศวะจุฬารอบรับตรงในปี 2555-2562
 
 ## Run
 ใน terminal หรือ command window, ให้ navigate ไปที่ project directory (ที่มีไฟล์ README นี้) และรัน commands ต่อไปนี้:
