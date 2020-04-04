@@ -23,11 +23,11 @@ _by พี่เกรท ออนดีมานด์_
 ใน terminal หรือ command window, ให้ navigate ไปที่ project directory (ที่มีไฟล์ README นี้) และรัน commands ต่อไปนี้:
 
 ```bash
-ipython notebook Project_Image_Classifier_Project.ipynb
+ipython notebook tcas3_eng_cu_analysis_2563_draft_07.ipynb
 ```  
 or
 ```bash
-jupyter notebook Project_Image_Classifier_Project.ipynb
+jupyter notebook tcas3_eng_cu_analysis_2563_draft_07.ipynb
 ```
 
 ## Data
